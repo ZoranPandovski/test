@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://gb-template.netlify.com/https://zoranpandovski.github.io/test/py</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://gb-template.netlify.com/https://zoranpandovski.github.io/test/test</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://gb-template.netlify.com/https://zoranpandovski.github.io/test/privacy</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://gb-template.netlify.com/https://zoranpandovski.github.io/test/contact</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://gb-template.netlify.com/https://zoranpandovski.github.io/test/search</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://gb-template.netlify.com/https://zoranpandovski.github.io/test/terms</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://gb-template.netlify.com/https://zoranpandovski.github.io/test/about</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://gb-template.netlify.com/https://zoranpandovski.github.io/test/tag/python</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://gb-template.netlify.com/https://zoranpandovski.github.io/test/tag/argparse</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://gb-template.netlify.com/https://zoranpandovski.github.io/test/tag/ci</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://gb-template.netlify.com/https://zoranpandovski.github.io/test/tag/travis-ci</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://gb-template.netlify.com/https://zoranpandovski.github.io/test/category/tech</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://gb-template.netlify.com/https://zoranpandovski.github.io/test/category/python</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://gb-template.netlify.com/https://zoranpandovski.github.io/test/category/basic</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://gb-template.netlify.com/https://zoranpandovski.github.io/test/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+</urlset>
