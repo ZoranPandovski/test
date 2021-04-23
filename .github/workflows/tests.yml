@@ -3,5 +3,5 @@
 - name: Run JMeter Tests
   uses: rbhadti94/apache-jmeter-action@v0.3.1
   with:
-    testFilePath: tests/test.jmx
+    testFilePath: test.jmx
     outputReportsFolder: reports/
