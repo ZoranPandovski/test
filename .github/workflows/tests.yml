@@ -1,7 +1,21 @@
-# Use JMeter to run the JMX test case and produce reports in the "reports/"
-# directory in the workspace.
-- name: Run JMeter Tests
-  uses: rbhadti94/apache-jmeter-action@v0.3.1
-  with:
-    testFilePath: test.jmx
-    outputReportsFolder: reports/
+name: Test JMeter Action
+
+on:
+  push:
+    branches:
+      - master
+  pull_request:
+    branches: [master]
+
+jobs:
+  action_build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      # Use JMeter to run the JMX test case and produce reports in the "reports/"
+      # directory in the workspace.
+      - name: Run JMeter Tests
+        uses: rbhadti94/apache-jmeter-action@v0.3.1
+        with:
+          testFilePath: test.jmx
+          outputReportsFolder: reports/
